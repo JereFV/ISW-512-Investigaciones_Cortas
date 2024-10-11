@@ -37,16 +37,27 @@ video{
     padding-bottom: 1%;
 }
 
-img{
-    width: 500px;
-    margin-top: 1%;
-    margin-bottom: 1%;
+div img{ 
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
 tr td:first-child{
     text-align: center;
 }
 
+#Etapas img{
+    padding-bottom: 0.5%;
+    width: 2.5%;
+}
+
+#Ejemplos{
+    padding-bottom: 1%;
+}
+
+#Beneficios table{
+    width:65%;
+}
 
 
 
